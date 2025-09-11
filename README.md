@@ -1,79 +1,95 @@
-<!-- PROFILE README for @keyra86 -->
+<!-- Banner Welcome -->
+<h2 align="center" style="color:#4B0082;">
+  💝 Welcome to my lovely friends! 💝 <br>
+  ✨ Welcome to my profile ✨
+</h2>
 
-<div align="center">
+<!-- Profile Picture -->
+<p align="center">
+  <img src="keyra.5B.webp" width="180" style="border-radius:50%;" alt="Keyra Aisyah Arafat"/>
+</p>
 
-  <!-- Foto Profil -->
-  <img src="keyra.5B.webp" alt="Keyra Aisyah Arafat" width="200" style="border-radius:50%;box-shadow:0 0 25px #b19cd9;" />
+<!-- ASCII Frame -->
+<p align="center">
 
-  <!-- Nama + Wave Animation -->
-  <h1 style="color:#ffb6c1;">
-    Hi there, I'm Keyra Aisyah Arafat <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />
-  </h1>
+╔═*.·:·.✧    ✦    ✧.·:·.*═╗  
+&nbsp;&nbsp;&nbsp; Keyra Aisyah Arafat  
+╚═*.·:·.✧    ✦    ✧.·:·.*═╝  
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=450&height=35&lines=🌸+Web+Designer;💄+Beauty+Creator;🥗+Healthy+Lifestyle+Enthusiast;🚀+Always+Learning+New+Things" alt="Typing SVG" />
-
-  <!-- Social Media -->
-  <p>
-    <a href="https://instagram.com/gourdkyraa_choi4" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://tiktok.com/@gourdkyraa_" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-%23000000?logo=tiktok&logoColor=white" />
-    </a>
-    <a href="https://youtube.com/@KEYRA_ARAFAT.66" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://x.com/keyra.aisyah" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2?logo=twitter&logoColor=white" />
-    </a>
-  </p>
-
-</div>
+</p>
 
 ---
 
-### 🌌 About Me  
-
-Hi! I’m **Keyra**, a passionate learner who loves exploring everything about **Web Design & IT** 🚀.  
-I enjoy **healthy living**, love to share about **beauty & skincare**, and I’m always excited to make new friends 🌍✨.  
-Life for me is about **balance between creativity, technology, and self-care** 💙🌸.  
+### 🌸 About Me
+- 💻 I love learning new things about IT  
+- 📚🖋️ Passionate about learning foreign languages  
+- 🌎🤝 Friendly and love making new friends  
+- 💖🥗 Healthy lifestyle enthusiast  
+- 💄 Beauty & skincare lover  
 
 ---
 
-### 📊 GitHub Stats  
+### 💎 My Interests
+💻 Web Design  
+💄 Beauty Creator  
+🥗💖 Healthy Lifestyle  
+📚🖋️ Learning Foreign Languages  
+🌎🤝 Make New Friends  
 
-<div align="center">
+---
+
+### 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23FFC0CB.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gourdkyraa_choi4)  
+[![TikTok](https://img.shields.io/badge/TikTok-%234B0082.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@gourdkyraa_)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23DA70D6.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KEYRA_ARAFAT.66)  
+[![Other](https://img.shields.io/badge/keyra.aisyah-Fresh%20Freesia.svg?style=for-the-badge&logo=sparkles&logoColor=white)](#)  
+
+---
+
+### 🎶 Vibes Right Now
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keyra86&show_icons=true&theme=tokyonight" alt="stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyra86&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keyra86&style=for-the-badge&color=FF69B4" alt="visitor badge"/>
+</p>
+
+---
+
+### ✨ Visit My Magical Page
+<p align="center">
+  <a href="https://keyra86.github.io/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Magical%20Page-Fresh%20Freesia,Blueberry%20Bushel,Pink%20Soft?style=for-the-badge&logo=magic&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🦋 Fun ASCII Animation
+```ascii
+     NXXXXXN                 Nd,'l0N     NOl',oX                Nd.
+    KMMMMMMXo.             .cXMM    MWOc,,ckXMM    Wk.          
+    KMMMMMMMWXOo:.        :KMM    MNkc. :0WMM    Wk.            
+    KMMMMMMMMMMMWXOo:. ,xNMM    Nx,.,oKMM    Wx.               
+    KMMMMMMMMMMMMMMMWXOKMM    Xo''ckNMM    W0c.                
+    KMMMMMMMMMMMMMMMMMMMM    NdodkNMM    WOl'.                  
+
+---
+
+👉 Ini tinggal **copy-paste ke `README.md` di repo `keyra86`** aja, udah langsung jadi profil cantikmu.  
+Gradient badge sudah pakai warna **Blueberry Bushel**, **Fresh Freesia**, dan **Pink Soft** ✨  
+
+
+
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyra86&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffb6c1&icon_color=8ecae6)  
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyra86&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffb6c1)  
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=keyra86&theme=tokyonight&hide_border=true&ring=ffb6c1&fire=8ecae6)  
-
-</div>
-
----
-
-### 👁️ Visitors Counter  
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=keyra86&color=ffb6c1&style=for-the-badge&label=PROFILE+VIEWS)  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keyra86.keyra86)  
-
-</div>
-
----
-
-### 🐍 Fun Animation  
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />  
-
-</div>
-
----
-
-⭐️ From [@keyra86](https://github.com/keyra86)
