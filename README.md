@@ -39,15 +39,21 @@
 ---
 
 ### 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23FFC0CB.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gourdkyraa_choi4)  
-[![TikTok](https://img.shields.io/badge/TikTok-%234B0082.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@gourdkyraa_)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23DA70D6.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KEYRA_ARAFAT.66)  
-[![Other](https://img.shields.io/badge/keyra.aisyah-Fresh%20Freesia.svg?style=for-the-badge&logo=sparkles&logoColor=white)](#)  
+[![Instagram](https://img.shields.io/badge/Instagram-Pink%20Soft.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gourdkyraa_choi4)  
+[![TikTok](https://img.shields.io/badge/TikTok-Blueberry%20Bushel.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@gourdkyraa_)  
+[![YouTube](https://img.shields.io/badge/YouTube-Fresh%20Freesia.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KEYRA_ARAFAT.66)  
+[![Other](https://img.shields.io/badge/keyra.aisyah-✨%20Special.svg?style=for-the-badge&logo=sparkles&logoColor=white)](#)  
 
 ---
 
 ### 🎶 Vibes Right Now
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+<p align="center">
+  <a href="https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=DA70D6&bar_color_cover=true" />
+  </a>
+  <br>
+  <b>🎵 Now Playing: "IAM" — IVE 💿</b>
+</p>
 
 ---
 
@@ -70,7 +76,7 @@
 ### ✨ Visit My Magical Page
 <p align="center">
   <a href="https://keyra86.github.io/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Magical%20Page-Fresh%20Freesia,Blueberry%20Bushel,Pink%20Soft?style=for-the-badge&logo=magic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Magical%20Page-Blueberry%20Bushel,Fresh%20Freesia,Pink%20Soft.svg?style=for-the-badge&logo=magic&logoColor=white" />
   </a>
 </p>
 
@@ -87,8 +93,13 @@
 
 ---
 
-👉 Ini tinggal **copy-paste ke `README.md` di repo `keyra86`** aja, udah langsung jadi profil cantikmu.  
-Gradient badge sudah pakai warna **Blueberry Bushel**, **Fresh Freesia**, dan **Pink Soft** ✨  
+✨ Jadi README ini udah:  
+- Ada warna khas kamu (Blueberry Bushel, Fresh Freesia, Pink Soft).  
+- TikTok badge resmi 🎶.  
+- Spotify langsung lagu “IAM” — IVE 💿.  
+- Lengkap sama stats, visitors, magical link, ASCII art 🦋.  
+
+
 
 
 
